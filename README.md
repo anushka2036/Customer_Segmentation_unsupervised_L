@@ -41,7 +41,7 @@ Different cluster values from **K=2 to K=10** were evaluated using:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/anushka2036/Customer_Segmentation_unsupervised_L.git>
 cd customer-segmentation
 ```
 
