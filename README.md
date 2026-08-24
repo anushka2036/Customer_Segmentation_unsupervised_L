@@ -41,8 +41,8 @@ Different cluster values from **K=2 to K=10** were evaluated using:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/anushka2036/Customer_Segmentation_unsupervised_L.git>
-cd customer-segmentation
+git clone https://github.com/anushka2036/Customer_Segmentation_unsupervised_L.git
+cd Customer_Segmentation_unsupervised_L
 ```
 
 ### 2. Install required libraries
@@ -76,14 +76,14 @@ Click **Predict Customer Segment** to see the predicted customer group.
 ```text
 customer-segmentation/
 │
+├── Customer_Segmentation.ipynb
+├── README.md
 ├── app_cs.py
 ├── customer_segmentation.csv
-├── Customer_Segmentation.ipynb
-├── kmeans_model.pkl
-├── scaler.pkl
-├── imputer.pkl
 ├── features.pkl
-└── README.md
+├── imputer.pkl
+├── kmeans_model.pkl
+└── scaler.pkl
 ```
 
 ## 🎯 Objective
